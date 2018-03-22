@@ -1,0 +1,159 @@
+
+
+
+.main{
+    position: relative;
+    width: 70%;
+    height: 80px;
+    background: white;
+    
+}
+
+.main .solyazi h1{
+    position: absolute;
+    left: 50px;
+    top: 10px;
+    color: #8f7e4e;
+
+}
+
+
+.main .sagyazi ul li{
+    text-decoration: none;
+    position: relative;
+    margin-right: 15px;
+    top: 36px;
+    left: 280px;
+    display: inline-block;
+    color: #807d79;
+}
+.main .sagyazi li{
+    text-decoration: none;
+    position: relative;
+    margin-right: 15px;
+    top: 2px;
+    left: 223px;
+    display: inline-block;
+    color: #8f7e4e;
+}
+.main .sagyazi .main2 p{
+    position: absolute;
+    left: 215px;
+    top: 40px;
+    color: #c6bfa7;
+}
+
+.main .sagyazi .main3 p{
+    position: absolute;
+    left: 25px;
+    top: 45px;
+    color: #efeeec;
+
+}
+
+.main .sagyazi .icon i{
+    position: absolute;
+    left: 660px;
+    top: 40px;
+    color: #7d7b7c;
+
+}
+
+.orta{
+    position: relative;
+    width: 70%;
+    height: 65px;
+    background: white;
+}
+.orta .yazi p{
+    position: absolute;
+    left: 165px;
+    top: 6px;
+    color: #828689;
+}
+.orta .yazi1 p{
+    position: absolute;
+    left: 490px;
+    top: 6px;
+    color: #afa283;
+}
+.sekil{
+    position: relative;
+    width: 695px;
+    height: 350px;
+  
+}
+.sekil .sekil1 img{
+    object-fit: cover;
+    width: 695px;
+    height:350px; 
+}
+.alt{
+    position: relative;
+    width: 695px;
+    height: 70px;
+    background: #f9f9f9;
+}
+.alt .icon1 i{
+    position: absolute;
+    left: 35px;
+    top: 25px;
+    font-size: 35px;
+    color: #95875a;
+}
+.alt .icon1 h1{
+    position: absolute;
+    left: 65px;
+    top: 25px;
+    font-size: 10px;
+    color: #ada584;
+}
+.alt .icon1 p{
+    position: absolute;
+    left: 18px;
+    top: 38px;
+    color: #95875a;
+
+}
+.alt .icon2 i{
+    position: absolute;
+    font-size: 35px;
+    left: 185px;
+    top: 25px;
+    color: #69696b;
+}
+.alt .icon2 h6{
+    position: absolute;
+    left: 220px;
+    top: 8px;
+    color: #69696b;
+
+}
+.alt .icon3 i{
+    position: absolute;
+    font-size: 35px;
+    left: 335px;
+    top: 25px;
+    color: #69696b;
+
+}
+.alt .icon3 h6{
+    position: absolute;
+    top: 8px;
+    left: 365px;
+    color: #69696b;
+}
+.alt .icon4 i{
+    position: absolute;
+    font-size: 35px;
+    top: 25px;
+    left: 485px;
+    color: #69696b;
+}
+.alt .icon4 h6{
+    position: absolute;
+    top: 8px;
+    left: 525px;
+    color: #69696b;
+}
+

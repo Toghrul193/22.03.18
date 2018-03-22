@@ -1,0 +1,201 @@
+.basliq{
+    width: 100%;
+    height: 700px;
+    position: relative;
+    background: #441e13;
+}
+
+.basliq .header h1{
+    position: absolute;
+    top: 5px;
+    left: 70px;
+    color: #d7d0cc;
+}
+.basliq .header2 h6{
+    position: absolute;
+    top: 12px;
+    left: 183px;
+    color:  #6a4339;
+}
+
+.main{
+    position: relative;
+    width: 600px;
+    height: 40px;
+    top: 80px;
+    left: 70px;
+    background: #39180f;
+}
+
+
+ .main  ul li{
+    text-decoration: none;
+    position: relative;
+    margin-right: 15px;
+    top: 10px;
+    left: -16px;
+    display: inline-block;
+    color: #b0a4a1;
+}
+
+.main .xett p{
+    margin-top: -25px;
+    margin-left: 70px;
+    color: #644427;
+}
+
+.main .xett1 p{
+    margin-top: -34px;
+    margin-left: 130px;
+    color: #644427;
+}
+
+.main .xett2 p{
+  margin-top: -34px;
+    margin-left: 204px;
+    color:  #644427;
+}
+
+.orta{
+    position: relative;
+    width: 600px;
+    height: 170px;
+    background: #87a984;
+    top: 85px;
+    left: 70px;
+}
+
+
+.orta .icon{
+    position: absolute;
+    top: 41px;
+    left: 54px;
+    font-size: 100px;
+    color: white;
+}
+
+.orta .main1 h1{
+    position: absolute;
+    font-size: 40px;
+    left: 195px;
+    color: #f1f6f1;
+}
+
+.orta .main2 h6{
+    position: absolute;
+    left: 193px;
+    top: 60px;
+    font-size: 11px;
+    color:   #e0e3cd;
+}
+
+.alt{
+    position: relative;
+    width: 175px;
+    height: 400px;
+    background: #96afac;
+    left: 70px;
+    top: 90px;
+  
+
+}
+
+.alt .sol .sol1 h3{
+    position: absolute;
+    top: 15px;
+    left:18px;
+    color: #dbd8c5;
+}
+
+.alt .sol .xett p{
+    position: absolute;
+    top: 30px;
+    left: 17px;
+    color: #dbd8c5;
+}
+.alt .sol .sol2 h3{
+    position: absolute;
+    top: 55px;
+    left: 18px;
+    color: #dbd8c5;
+}
+
+.alt .sol .xett1 p{
+    position: absolute;
+    top: 70px;
+    left: 17px;
+    color: #dbd8c5;
+}
+
+.alt .sol .sol3 h3{
+    position: absolute;
+    top: 93px;
+    left: 18px;
+    color: #dbd8c5;
+}
+
+.alt .sol .xett2 p{
+    position: absolute;
+    top: 108px;
+    left: 17px;
+    color: #dbd8c5;
+}
+
+.alt .sol .sol4 h3{
+    position: absolute;
+    top: 128px;
+    left: 18px;
+    color: #dbd8c5;
+}
+
+.alt .sol .xett3 p{
+    position: absolute;
+    top: 143px;
+    left: 17px;
+    color: #dbd8c5;
+}
+.sag{
+    width: 425px;
+    height: 400px;
+    background: #dbd8c5;
+    position: relative;
+    top: 0px;
+    left: 175px;
+}
+
+.sag .yazi h1{
+    position: absolute;
+    top: 5px;
+    left: 36px;
+    color: #5b7078;
+}
+
+.sag .yazi1 h6{
+    position: absolute;
+    top: 47px;
+    left: 15px;
+    color: #868274;
+
+}
+
+.sag .yazi2 h6{
+    position: absolute;
+    top: 121px;
+    left: 15px;
+    color: #868274;
+
+}
+.sag .yazi3 h6{
+    position: absolute;
+    top: 190px;
+    left: 15px;
+    color: #868274;
+
+}
+.sag .yazi4 h6{
+    position: absolute;
+    top: 255px;
+    left: 15px;
+    color: #868274;
+
+}

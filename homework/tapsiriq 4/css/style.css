@@ -1,0 +1,91 @@
+.basliq{
+    position: relative;
+    width: 75%;
+    height: 55px;
+    background: white;
+    display: flex;
+}
+.basliq .brend h1{
+    position: absolute;
+    left: 130px;
+    top: -8px;
+    color: #7e7e7e;
+
+}
+.basliq .sag li{
+    position: relative;
+    left: 440px;
+    top: 18px;
+    margin-right: 25px;
+    display: inline-block;
+    color: #9d9d9d;
+}
+.basliq .sag p{
+    position: absolute;
+    left: 360px;
+    top: 1px;
+    color: #cf7843;
+
+}
+.basliq .sag button{
+    position: absolute;
+    left: 840px;
+    top: 13px;
+    height: 30px;
+    width: 100px;
+    background: #cf7843;
+    color: white;
+
+}
+.orta{
+    position: relative;
+    background: white;
+}
+.orta .sekil img{
+    position: absolute;
+    width: 75%;
+    height: 450px;
+    object-fit: cover;
+    box-shadow: 5px 10px 8px #888888;
+   
+}
+.orta .yazi h1{
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    font-size: 40px;
+    color: black;
+}
+.orta .yazi h6{
+    position: absolute;
+    top: 180px;
+    left: 100px;
+    color: #8c8c8c;
+    
+    
+}
+.orta .yazi button{
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    box-shadow: 10px;
+    width: 130px;
+    height: 40px;
+    box-shadow: 5px 10px 8px #888888;
+    color:#9d9d9d;
+}
+.orta .yazi .sol{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 110px;
+    left: 0px;
+    background:  #ebeae8;
+}
+.orta .yazi .sol i{
+    position: absolute;
+    font-size: 20px;
+    color: #838182;
+    top: 6px;
+    left: 5px;
+}

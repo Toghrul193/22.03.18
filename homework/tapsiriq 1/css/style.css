@@ -1,0 +1,198 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+.clearfix{
+    clear: both;
+}
+.basliq{
+    position: relative;
+}
+.basliq h3 {
+   margin: 20px;
+   padding: 10px;
+  
+   
+}
+.basliq .herf p{
+    position: absolute;
+    top: 21px;
+    left: 610px;
+    font-size: 13px;
+    color: #e7b97e;
+}
+
+.basliq ul li {
+    float: left;
+    margin-left: 20px;
+    color: black;
+    
+}
+.basliq ul{
+    margin-top: -40px;
+    margin-left: 650px;
+    font-size: 12px;
+}
+
+.orta {
+  position: relative;
+    width: 100%;
+    height: 100px;
+   
+}
+ .orta img{
+     left: 28px;
+     width: 85%;
+     height: 400px;
+     position: absolute;
+     object-fit: cover;
+     margin-top: 50px;
+     opacity: 0.9;
+ }
+
+.orta .yazi h1 {
+    position: absolute;
+    top: 180px;
+    left: 436px;
+    font-size: 60px;
+    color: white;
+}
+.orta .yazi1 h1{
+    position: absolute;
+    top: 180px;
+    left: 660px;
+    font-size: 60px;
+    color: yellow;
+}
+.orta .yazi2 h1{
+    position: absolute;
+    top: 180px;
+    left: 816px;
+    font-size: 60px;
+    color: white;
+}
+
+.orta .yazi3 p{
+    position: absolute;
+    top: 253px;
+    left: 453px;
+    font-size: 20px;
+    color: white;
+}
+
+.orta .icon{
+    position: absolute;
+    top: 392px;
+    left: 630px;
+    font-size: 28px;
+    color: white;
+}
+
+.footer{
+    width: 85%;
+    height: 280px;
+    position: relative;
+    background:#f9f9f9;
+    top: 366px;
+    left: 27px;
+}
+
+.footer alt{
+    width: 85%;
+    height: 200px;
+    position: absolute;
+}
+
+.footer .alt h1{
+    left: 119px;
+     position: absolute;
+    top: 80px;  
+    color: #5c504e;
+}
+
+.footer .yazi4 h4{
+    position: absolute;
+    top: 58px;
+    left: 123px;
+    font-size: 12px;
+    color:#d3d3d3;
+}
+
+.footer .yazi5 h6{
+    position: absolute;
+    top: 180px;
+    left: 115px;
+    color: #a2a09d;
+}
+.footer .icon{
+    position: absolute;
+    top: 155px;
+    left: 120px;
+    color:  #e9b75b;
+}
+
+.footer .icon1{
+    position: absolute;
+    top: 107px;
+    left: 558px;
+    font-size: 40px;
+    color: #e9b75b;
+}
+.footer .yazi6 h6{
+    position: absolute;
+    top: 165px;
+    left: 541px;
+    color: #7b7a77;
+
+}
+
+.footer .icon2{
+    position: absolute;
+    top: 108px;
+    left: 730px;
+    font-size: 40px;
+    color: #e9b75b;
+}
+
+.footer .yazi7 h6{
+    position: absolute;
+    top: 165px;
+    left: 695px;
+    color: #7b7a77;
+}
+
+.footer .icon3{
+    position: absolute;
+    top: 107px;
+    left: 900px;
+    font-size: 40px;
+    color: #e9b75b;
+}
+
+.footer .yazi8 h6{
+    position: absolute;
+    top: 167px;
+    left: 889px;
+    color: #7b7a77;
+}
+
+
+.orta .whncs{
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    background: white;
+    left: 17px;
+    top: 187px;
+}
+.orta .icon4{
+   color: #696d76;
+    position: absolute;
+    top: 184px;
+    left: 15px;
+    font-size: 26px;
+}
